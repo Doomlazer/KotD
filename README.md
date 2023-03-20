@@ -1,8 +1,8 @@
 # Killing of the Dead
 
-KotD is a simple "typing" game for the Pico-8 fantasy console created in late 2019 as a learning project. It was initially designed to "type" with the on-screen keyboard controlled either with the mouse or arrow keys. Since that was a horrible way to play I added the ability to use a keyboard as well. 
+KotD is a simple "typing" game for the Pico-8 fantasy console created in late 2019 as a learning project. It was initially designed to "type" with the on-screen keyboard controlled either with the mouse or arrow keys. Since that was a horrible way to play, I added the ability to use a keyboard as well. 
 
-The game can be played in a browser <a href="doomlazer.github.io/KotD">here</a>.
+The game can be played in a browser <a href="https://doomlazer.github.io/KotD">here</a>.
 
 # How to play 
 
